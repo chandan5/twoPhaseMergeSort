@@ -1,0 +1,29 @@
+./a.out --meta_file ../../test/metadata1.txt --input_file ../../test/input1.csv --output_file output1.csv --sort_column col1 --mm 0.5
+0 : 
+string : date : int : 
+0 : 0 : 0 : 
+-----
+-----
+-----
+-----
+-----
+-----
+completed phase 1
+-----
+-----
+-----
+-----
+-----
+-----
+0x7faba1403350
+0x7faba16003c0
+0x7faba160c7f0
+0x7faba1618940
+0x7faba140f650
+0x7faba141b860
+00Jw6R,9/6/2010,320974
+000Pwq,11/2/1990,838459
+0024N1,16/11/1978,213715
+009ZHH,28/10/1968,819017
+00Sla1,8/12/1958,798036
+00rbj1,23/12/1956,177090
